@@ -13,4 +13,18 @@ Instruction for using the bot:
 
 5.Finally,you can use my bot on your devices
 
-Very important note!-The bot can only be used on local devices, cause I did not deploy this creation to any server
+Very important note!-The bot can only be used on local devices, cause I did not deploy this creation to any server+ It has only Russian localization. If you want, I will add other languages.
+
+List of bot commands:
+
+/start-Dashboard of Yandex Zen with articles
+
+/begin-Yandex Zen Video Section
+
+/shorts-Shorts
+
+/discover-Recommended collections
+
+/profile-Your Zen Profile
+
+/books-Website with Books
