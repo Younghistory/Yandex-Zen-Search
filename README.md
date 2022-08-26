@@ -1,7 +1,7 @@
 # main.py
 This is my Telegram-bot fro instant using of Yandex Zen service without leaving Telegram messenger
 
-Instruction for using the bot:
+Instruction of launching:
 
 1.Open the file "main.py" through PyCharm(recommended)
 
