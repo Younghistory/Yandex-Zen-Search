@@ -5,7 +5,7 @@ Instruction of launching:
 
 1.Open the file "main.py" through any code editor
 
-2.In the terminal, enter the following code-"python main.py"
+2.In the terminal, lauch python code
 
 3.Log in to your telegram account
 
