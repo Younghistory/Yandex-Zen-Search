@@ -28,3 +28,7 @@ List of bot commands:
 /profile-Your Zen Profile
 
 /books-Website with Books
+
+/music-A well-known site with a variety of music
+
+/anime-Website for watching anime
