@@ -1,5 +1,5 @@
 # main.py
-This is my Telegram-bot fro instant using of Yandex Zen service without leaving Telegram messenger
+This is my Telegram-bot for instant using of Yandex Zen service without leaving Telegram messenger
 
 Instruction of launching:
 
