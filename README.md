@@ -32,3 +32,5 @@ List of bot commands:
 /music-A well-known site with a variety of music
 
 /anime-Website for watching anime
+
+/Second-Website for watching anime 2
